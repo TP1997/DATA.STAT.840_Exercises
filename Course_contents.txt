@@ -1,0 +1,83 @@
+1. Basic text processing
+    1.1 Web crawling
+    1.2 Cleanup
+        1.2.1 Tokenization
+            Break apart a string of text into individual sentences and words
+    1.3 Encoding
+        1.3.1 Case removal
+        1.3.2 Stemming
+            turns each word into the stem of the word
+        1.3.3 Lemmatization
+            turning words into basic forms called lemmas
+        1.3.4 Vocabularies
+    1.4 Counting prominent words
+        1.4.1 Word counts
+    1.5 Zipf's law 
+    1.6 Pruning the vocabulary
+
+2. Collocations
+    2.1 Dispersions
+    2.2 Collocations
+    2.3 Regular expressions
+
+3. Vector space models (+Collocation analysis)
+    3.1 Vector space models
+    3.2 Document features
+    3.3 TF-IDF
+    3.4 Document clustering
+        3.4.1 Gaussian mixture models
+        3.4.1 EM-algorithm
+        
+4. N-grams
+    4.1 Unigrams
+    4.2 Bigrams
+    4.3 General n-grams
+    4.4 N-gram mixture modelling
+
+5. Topic models
+    5.1 Latent semantic analysis
+    5.2 Probabilistic latent semantic analysis
+    5.3 Latent dirichlet allocation
+    
+6. Hidden Markov models
+    6.1 Hidden Markov models
+    6.2 Forward-Backward algorithm
+    6.3 Viterbi algorithm
+    6.4 Baum-Welch algorithm
+    6.5 HMMs and topic models
+    6.6 HMMs and part-of-speech tagging
+    
+7. Probabilistic context free grammars
+    7.1 Probabilistic context-free grammar
+    7.2 Chomsky normal form PCFG
+    7.3 Probability of a string
+        7.3.1 Inside algorithm
+        7.3.2 Outside algorithm
+    7.4 Most likely parse of a string
+    7.5 Learning PCFG probabilities
+    
+8. Information retrieval
+    8.1 Information retrieval
+        8.1.2 Queries
+    8.2 Precision-recall
+    8.3 Uninterpolated average precision
+    8.4 Interpolated average precision
+    8.5 Probability ranking principle
+    
+9. Visualization and feature extraction
+    9.1 Visualization of document collections
+    9.2 Dimensionality reduction and visualization
+    9.3 Principal component analysis
+    9.4 Word embedding
+        9.5 Word2vec
+        9.6 Continuous bag of words (CBOW) model
+        9.7 Skip-gram model
+        9.8 "Negative sampling" based Skip-gram model
+        
+10. Neural language models
+    10.1 Paragraph vector models
+    10.2 Neural language models
+    10.3 Recurrent networks
+    10.4 LSTM (long short-term memory)
+
+
